@@ -1,0 +1,14 @@
+---
+title: "Testando e aprendendo coisas com 'R'"
+output: html_notebook
+---
+
+Olá pessoal!!!
+
+Meu nome é Rodrigo e estou fazendo o curso de **R** no site [DataCamp](http://www.datacamp.com). 
+
+Com este curso, tenho o objetivo de descobrir mais como linguagens que hoje são utilizadas para análise de dados funcionam. Não é novidade que *DataScience* é uma área que está em constante expansão, tendo seus primeiros passos dados no início da década de 2010, onde o mundo começou a perceber que a quantidade de dados gerados estavam extrapolando o poder de gestão existente até o momento. 
+
+O poder que linguagens como *R* e *Python* possuem, em conjunto com conhecimentos estatísticos é absurdo, bem como a simplicidade com a qual é possível desenvolver análises e, rapidamente, "cuspir" um resultado para a alta administração.
+
+
